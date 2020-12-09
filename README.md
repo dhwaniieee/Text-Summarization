@@ -7,4 +7,4 @@ In GUI there is also one button called Demo ,if we click Demo button then it tak
 In below screenshot you can see how my GUI looks like.
 
 # Screenshot
-![Screenshot1](ScreenShots/screenshot.JPG)
+![Screenshot1](ScreenShot/screenshot.JPG)
